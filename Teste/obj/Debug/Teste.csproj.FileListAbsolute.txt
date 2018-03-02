@@ -1,0 +1,9 @@
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.exe
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.pdb
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\EntityFramework.dll
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\EntityFramework.xml
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.exe
+c:\users\re035720\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\re035720\Documents\Visual Studio 2012\Projects\Teste\Teste\bin\Debug\MySql.Data.dll
